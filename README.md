@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jayeshshimpi110920
-- 👀 I’m interested in ❤️ to build
-- 🌱 I’m currently Exporing the things..!!
-- 💞️ I’m looking to collaborate on ...
+- 👀 ---->>  ❤️ to build
+- 🌱 I’m currently Exploring the things..!!
+- 💞️ Full-stack-developer(MERN stack)
+- ✨ Mechanical Guy 😉
 - 📫 reach to me --> @Jayeshshimpi1109 on linkdin
 
 <!---
