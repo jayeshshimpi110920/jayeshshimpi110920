@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @jayeshshimpi110920
-- 👀 ---->>  ❤️ to build
-- 🌱 I’m currently Exploring the things..!!
-- 💞️ Full-stack-developer(MERN stack)
-- ✨ Mechanical Guy 😉
+- 👀❤️ to build
 - 📫 reach to me --> @Jayeshshimpi1109 on LinkedIn
 
 <!---
