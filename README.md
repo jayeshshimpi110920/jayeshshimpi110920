@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayeshshimpi110920
-- 👀❤️ to build
+- ❤️ to build
 - 📫 reach to me --> @Jayeshshimpi1109 on LinkedIn
 
 <!---
